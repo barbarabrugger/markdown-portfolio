@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* My family
+* Coding
+  * Java
+  * Javascript/Typescript
+* Crafting
+* Gaming
