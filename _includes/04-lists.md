@@ -1,6 +1,5 @@
 * My family
 * Coding
-  * Java
-  * Javascript/Typescript
+* Yoga
 * Crafting
 * Gaming
