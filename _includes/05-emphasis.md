@@ -1,3 +1,3 @@
-- ** Java **
-- ** JavaScript/Typescript **
-- * HTML/CSS *
+- **Java**
+- **JavaScript/Typescript**
+- *HTML/CSS*
